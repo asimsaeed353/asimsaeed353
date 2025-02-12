@@ -1,6 +1,6 @@
-![Header](./github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm M Asim Saeed</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="center">A passionate Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.4R-FKfIVHAaIHuTJivrscgHaFj?rs=1&pid=ImgDetMain">
 
 
