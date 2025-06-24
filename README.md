@@ -1,5 +1,3 @@
-![Header](./github-header-image.png)
-
 <h1 align="center">Hi 👋, I'm M Asim Saeed</h1>
 <h3 align="center">A passionate laravel developer</h3>
 
