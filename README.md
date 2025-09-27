@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm M Asim Saeed</h1>
-<h3 align="center">A passionate laravel developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asimsaeed353&label=Profile%20views&color=0e75b6&style=flat" alt="asimsaeed353" /> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Software Engineering**
 
-- 💬 Ask me about **frontend development, laravel**
+- 💬 Ask me about **Software Engineering, Software Development, Software Archtiecture**
 
 - 📫 How to reach me **asimsaeed353@gmail.com**
 
