@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asimsaeed353&label=Profile%20views&color=0e75b6&style=flat" alt="asimsaeed353" /> </p>
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I’m currently learning **Software Engineering, System Architecture and Desing**
 
-- 💬 Ask me about **Software Engineering, Software Development, Software Archtiecture**
+- 💬 Ask me about **Software Engineering, Software Development, Software Archtiecture, Architecture Design**
 
 - 📫 How to reach me **asimsaeed353@gmail.com**
 
